@@ -1,5 +1,5 @@
 # hangman
-/ A classic Hangman word-guessing game implemented in Python. The game challenges players to guess the correct word by suggesting letters within a limited number of attempts.
+A classic Hangman word-guessing game implemented in Python. The game challenges players to guess the correct word by suggesting letters within a limited number of attempts.
 ## Features
 - Interactive Gameplay: Guess letters to unveil the hidden word.
 - Customizable Word List: Easily add or modify words.
